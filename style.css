@@ -1,0 +1,18 @@
+/**
+ * Theme Name: Stocker-theme
+ * Author: Tareq Monower
+ * Author URI: https://profiles.wordpress.org/tamimh/
+ * Description: This is a custom wordpress theme built for stock market.
+ * Version: 1.0
+ * Tags: custom-background, custom-logo, custom-menu
+ *
+ * @format
+ */
+
+.owl-nav {
+  display: none !important;
+}
+
+html {
+  scroll-behavior: smooth;
+}
